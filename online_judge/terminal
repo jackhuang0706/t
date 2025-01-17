@@ -1,0 +1,5 @@
+mkdir quiz-system
+cd quiz-system
+mkdir client server 
+cd client
+npx create-react-app . 
